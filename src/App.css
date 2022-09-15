@@ -16,15 +16,6 @@
   }
 }
 
-.header {
-  display: flex;
-  justify-content: space-between;
-  padding: 1em 2em 1em 2em;
-  align-items: center;
-  font-size: calc(10px + 1.5vmin);
-  color: white;
-}
-
 .main {
   display: flex;
   flex-direction: column;
@@ -48,24 +39,4 @@
 
 .logo {
   width: 5em;
-}
-
-.link {
-  text-decoration: none;
-}
-
-a {
-  color: white;
-}
-
-a:hover {
-  color: orange;
-}
-
-a:visited {
-  color: aqua;
-}
-
-a:active {
-  color: green;
 }
